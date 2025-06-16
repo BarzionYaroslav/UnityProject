@@ -1,0 +1,2328 @@
+fileFormatVersion: 2
+guid: f4b40f46fb4e2b647bd168766935b645
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2434872991812258672
+    second: WilyStageTiles2_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WilyStageTiles2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09476d91ae7953ed0800000000000000
+      internalID: -2434872991812258672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 935
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fab2f654473674da8dac3d97100028
+      internalID: -2090424911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 935
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f773718dd7cbeec47a1bd605ed25eeee
+      internalID: 1847584771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 935
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68b4c3425974704b87ce3698c0f1670
+      internalID: -1198494218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 935
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da23aa36c1530e2458c99d5e6a7d5e8f
+      internalID: -2001356830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 935
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1095594ba2abe1f47b809a6b95829627
+      internalID: 1548053381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 935
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439407f27054f6141a6f87f5ca80bb0f
+      internalID: -1454348158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 935
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c979b5989b6434fa2a550a220553fc
+      internalID: -737263946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51233645f227d44bb298480eda140cb
+      internalID: 1639875983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 850
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe012b8f5aa0e3448531f426a8429cc
+      internalID: -502592463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 850
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5f7323ddb64cb4c965451ec6a90402
+      internalID: 397165956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 850
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f34f0b4896884e8a614c9a56f43e5
+      internalID: 1941060293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 850
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eee646e2f674c45bae661d818af885
+      internalID: 1326308684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 850
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c345e6159951094ba6c8f4b07e03414
+      internalID: 554843923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 850
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadbc3104859d314996369d6b0cdfd4e
+      internalID: 1223322012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 850
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560797c3bd1bd72489c1318554e90bc2
+      internalID: 182196199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555d31c36ac722741b6d5d32b42dba30
+      internalID: -2050611783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 765
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2ba274c183d7e40a3035dc4bdf2c51
+      internalID: -1347393487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 765
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2a0e94ec5d30344acb8794b7e1e477
+      internalID: 1680610172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 765
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151df4c3d889d2346b244fbd66eb202a
+      internalID: -32903096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 765
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f9de1c6d2eaa647b03d3081940fa23
+      internalID: 1197842288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 765
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3b82f70bd89cc43a25acb6f004ee58
+      internalID: -1048483735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 765
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8bcfbf9cb11c047b004be5364cc2f9
+      internalID: -1206251199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_23
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 765
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4cc2bd910b74c4dbaa3c5892cc4a24
+      internalID: 142208584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3074d449feaca1b4d804285a51c5e86b
+      internalID: -1546787468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732d80b8c211c63428d173eaac4c610b
+      internalID: -1032903505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9517555ba066748aa21b0f9e36bace
+      internalID: 1698599344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075a7dd9782c5c842a8b9c42d2a80f28
+      internalID: 1122391160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3403e155ce2ca4fafbef4a4d444b0c
+      internalID: 779572692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd60424ebc66924580327d5f08f04f7
+      internalID: -2026372217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_30
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55d882e2836cba419a477b029be5bfd
+      internalID: 1310923359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_31
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 680
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b5a2f52bb8a6b4794a3140e46742bd
+      internalID: -1564054531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c4d2094f7de9a4ebae9750d759a1b0
+      internalID: -2143477208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 595
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82057fd73c055c42b71e480e407dc87
+      internalID: -2071815830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 595
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451b8ef08859bde46b6009ed58bc7752
+      internalID: 1884350823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 595
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5382b233be8c74aa8176c803fe2e1a
+      internalID: -921066307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 595
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a382d7dc7dd70674f98224547c2ba9a6
+      internalID: 1390051361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_37
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 595
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86448b01fca2f0541a722e3a703d5bcf
+      internalID: 1420204469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_38
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 595
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d91dc68749217840b784480b8ac82ea
+      internalID: -1119864271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_39
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 595
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5f07d660208ea41bf598e35aefe139
+      internalID: -493550703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8195d01cf3176f34c9545ee41e2e0b1c
+      internalID: 1411778810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 510
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431355a052a3f8c4eb8bf377fd675d55
+      internalID: -2096303544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 510
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4911c5fc79a09fa4388986a158bb970c
+      internalID: 1771243745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 510
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007db19065e8c134d9191182ce509ed2
+      internalID: -220627829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 510
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88baafaf28e33ba45b3d1fe8755b5ce8
+      internalID: -2099792836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 510
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f142533c4b06d478001a38df7eb4f2
+      internalID: 162130529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_46
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 510
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c65661bde87514abc115a606b60505
+      internalID: -1023103496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_47
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 510
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e941ff90ae0e34ea7a73eaf64360a7
+      internalID: 160908861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa5d0b193ed8f54491be203d987934f
+      internalID: 1269224530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 425
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce64b9a84fba845aa82f09c63bb49d
+      internalID: 557006651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 425
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee14b6546d500f74083b1425f333016d
+      internalID: -1671007873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 425
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc956075dffb709428a9dd2f26885b7f
+      internalID: 1768145324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_52
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 425
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b9856a2a5544d41955c985bde90b26
+      internalID: 1254289958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_53
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 425
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cdbd7f5f8344b428856758ab80540a
+      internalID: 1529618151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_54
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 425
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d3abecf53a5334a8bbb50bee656e39
+      internalID: 788075202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_55
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 425
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438bb04d7c516204c8bd7873915ee376
+      internalID: 276562710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c9313f50cb984c9308873dd154537
+      internalID: 196769109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_57
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa8c6509fe54944a565736ee040f0c
+      internalID: 865604051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec7e2bc121682c4f8922b31ed33b9b2
+      internalID: -667786218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_59
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512bc2dfd507f784d9e4e1e427c29de1
+      internalID: -1679980737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_60
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d02f1f9707def74ba62b1b0524134de
+      internalID: -921024556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981c5fb391d3b6f45ae227b5e5865e0e
+      internalID: -114130469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_62
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f35259acf4fc84d9fc51debd2df183
+      internalID: 65761840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_63
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c7c9c7910365459c37ed7c6795aa7
+      internalID: 882224957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92acefc12e513ef45b99d03e2898cb23
+      internalID: 126863524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 255
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07ac4e1d6e7f7449a80a054a076f25e
+      internalID: 1485121460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_66
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 255
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a952becca33b6499233dd2d3765d79
+      internalID: -1135898246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_67
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b040328d5dcfc154e83982347d21ce1d
+      internalID: -268675269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_68
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 255
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb3133b2863534785714962bb5178d
+      internalID: -2002278816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_69
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 255
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e91b54f96ecdcc4a90d989c8f320345
+      internalID: -1711980621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_70
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 255
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f8ec3cc28bf6641b5309329824b5d1
+      internalID: -316634585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_71
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 255
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e6295814b3c54da13cca7fe16ca9f
+      internalID: 226228946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621ca9ed576068b46aa18c1ae968bdf8
+      internalID: -1607386181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf9f121d6e51ea4ab7ee2aceefa92bd
+      internalID: 1180002059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26437875f9c6d014a878b68de560c119
+      internalID: -1286650639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50b8ad4adf9a9b4fb131753a831e378
+      internalID: -1857919790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32078b88679decf4694b7ede778b2a3c
+      internalID: 92069784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_77
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe0445e228764d4b83968eecd3cb2e4
+      internalID: -342908643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_78
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88812b68adfe6b4ab74221ce9f17a8d
+      internalID: -1167248427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_79
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cffd52cc67b9f43b1f2aa2bdb22ccd
+      internalID: 705475207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7cb08d361889c4d808d4874b6feaac
+      internalID: -884065052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfc25d35a2108f44bb53e273c0fabb4
+      internalID: -1343275690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a72ed8a0fb6a2647990b806a91fb033
+      internalID: 648646721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_83
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7c625015bb2334f9cbd9f669e6f98c
+      internalID: -1252968056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_84
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b99e19437c581243bfbd4b7bcddccbc
+      internalID: -2060495659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_85
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c807e94231bd2e4c8970003399891f2
+      internalID: 737154656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_86
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99f574e5e5b1644684e77ed52e0ea44
+      internalID: 1182187585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_87
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36510a0796713c4597ab901b92ab1dc
+      internalID: 730730838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06881224aa21be647b1ce0be1a24fd58
+      internalID: 65218768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_89
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf19af91ab6aab4a8d043ab550d3d6a
+      internalID: 280382449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_90
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620cd63539fcc9a419bf45471deffd1b
+      internalID: -997877127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_91
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6b60866c8a9964b93f6742cb1ae95e
+      internalID: 1538964905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f8a46f30bfd6844ab9a45f7719f9bb
+      internalID: -1774454896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_93
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c3735e0b59ed40ab1acfae850e742
+      internalID: -2033119249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_94
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8ed75e42ff1a94da0bf20001797a9d
+      internalID: 532728275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WilyStageTiles2_95
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd50e0641cf271c46b507f380cbc1ecf
+      internalID: -421853076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4c931ea2334a8944b6680ee1f856f71
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WilyStageTiles2_0: -2434872991812258672
+      WilyStageTiles2_1: -2090424911
+      WilyStageTiles2_10: 397165956
+      WilyStageTiles2_11: 1941060293
+      WilyStageTiles2_12: 1326308684
+      WilyStageTiles2_13: 554843923
+      WilyStageTiles2_14: 1223322012
+      WilyStageTiles2_15: 182196199
+      WilyStageTiles2_16: -2050611783
+      WilyStageTiles2_17: -1347393487
+      WilyStageTiles2_18: 1680610172
+      WilyStageTiles2_19: -32903096
+      WilyStageTiles2_2: 1847584771
+      WilyStageTiles2_20: 1197842288
+      WilyStageTiles2_21: -1048483735
+      WilyStageTiles2_22: -1206251199
+      WilyStageTiles2_23: 142208584
+      WilyStageTiles2_24: -1546787468
+      WilyStageTiles2_25: -1032903505
+      WilyStageTiles2_26: 1698599344
+      WilyStageTiles2_27: 1122391160
+      WilyStageTiles2_28: 779572692
+      WilyStageTiles2_29: -2026372217
+      WilyStageTiles2_3: -1198494218
+      WilyStageTiles2_30: 1310923359
+      WilyStageTiles2_31: -1564054531
+      WilyStageTiles2_32: -2143477208
+      WilyStageTiles2_33: -2071815830
+      WilyStageTiles2_34: 1884350823
+      WilyStageTiles2_35: -921066307
+      WilyStageTiles2_36: 1390051361
+      WilyStageTiles2_37: 1420204469
+      WilyStageTiles2_38: -1119864271
+      WilyStageTiles2_39: -493550703
+      WilyStageTiles2_4: -2001356830
+      WilyStageTiles2_40: 1411778810
+      WilyStageTiles2_41: -2096303544
+      WilyStageTiles2_42: 1771243745
+      WilyStageTiles2_43: -220627829
+      WilyStageTiles2_44: -2099792836
+      WilyStageTiles2_45: 162130529
+      WilyStageTiles2_46: -1023103496
+      WilyStageTiles2_47: 160908861
+      WilyStageTiles2_48: 1269224530
+      WilyStageTiles2_49: 557006651
+      WilyStageTiles2_5: 1548053381
+      WilyStageTiles2_50: -1671007873
+      WilyStageTiles2_51: 1768145324
+      WilyStageTiles2_52: 1254289958
+      WilyStageTiles2_53: 1529618151
+      WilyStageTiles2_54: 788075202
+      WilyStageTiles2_55: 276562710
+      WilyStageTiles2_56: 196769109
+      WilyStageTiles2_57: 865604051
+      WilyStageTiles2_58: -667786218
+      WilyStageTiles2_59: -1679980737
+      WilyStageTiles2_6: -1454348158
+      WilyStageTiles2_60: -921024556
+      WilyStageTiles2_61: -114130469
+      WilyStageTiles2_62: 65761840
+      WilyStageTiles2_63: 882224957
+      WilyStageTiles2_64: 126863524
+      WilyStageTiles2_65: 1485121460
+      WilyStageTiles2_66: -1135898246
+      WilyStageTiles2_67: -268675269
+      WilyStageTiles2_68: -2002278816
+      WilyStageTiles2_69: -1711980621
+      WilyStageTiles2_7: -737263946
+      WilyStageTiles2_70: -316634585
+      WilyStageTiles2_71: 226228946
+      WilyStageTiles2_72: -1607386181
+      WilyStageTiles2_73: 1180002059
+      WilyStageTiles2_74: -1286650639
+      WilyStageTiles2_75: -1857919790
+      WilyStageTiles2_76: 92069784
+      WilyStageTiles2_77: -342908643
+      WilyStageTiles2_78: -1167248427
+      WilyStageTiles2_79: 705475207
+      WilyStageTiles2_8: 1639875983
+      WilyStageTiles2_80: -884065052
+      WilyStageTiles2_81: -1343275690
+      WilyStageTiles2_82: 648646721
+      WilyStageTiles2_83: -1252968056
+      WilyStageTiles2_84: -2060495659
+      WilyStageTiles2_85: 737154656
+      WilyStageTiles2_86: 1182187585
+      WilyStageTiles2_87: 730730838
+      WilyStageTiles2_88: 65218768
+      WilyStageTiles2_89: 280382449
+      WilyStageTiles2_9: -502592463
+      WilyStageTiles2_90: -997877127
+      WilyStageTiles2_91: 1538964905
+      WilyStageTiles2_92: -1774454896
+      WilyStageTiles2_93: -2033119249
+      WilyStageTiles2_94: 532728275
+      WilyStageTiles2_95: -421853076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
